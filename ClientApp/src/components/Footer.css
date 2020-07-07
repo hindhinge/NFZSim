@@ -1,0 +1,9 @@
+﻿.footercontainer {
+    height: 5vh;
+    position:fixed;
+    bottom:0px;
+}
+
+body {
+    background-color: white;
+}

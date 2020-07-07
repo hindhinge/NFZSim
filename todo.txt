@@ -1,0 +1,4 @@
+﻿md5 hasło
+wizyty dondondondooon
+link database connection jako global w klasie dondondondon
+drugs z patient id don don don don
